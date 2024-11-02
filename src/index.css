@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Noto+Sans:ital@0;1&family=Space+Grotesk:wght@300..700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background: #151515;
+
+}
+
+span,
+.primary-color {
+  background-image: linear-gradient(to right, #7a0d8a, #c92085, #c68109);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.bg-primary-color {
+  @apply bg-gradient-to-r from-[#7a0d8a] via-[#c92085] to-[#c68109];
+}
+
+
+h2 {
+  @apply text-xl md:text-4xl;
+}
+
+p {
+  @apply text-xl tracking-tight leading-relaxed;
+}
+
+.glass{
+  background: linear-gradient(135deg, rgba(55, 55, 55, 0.1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border:1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.active-project{
+  position: relative;
+}
+
+.active-project::before,
+.active-project::after{
+  content: '';
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background-color: #D3208B;
+  bottom:-6px;
+}
+
+
+.active-project::after{
+  background-color: #FDA000;
+  width: 80% ;
+  bottom:-10px;
+}
