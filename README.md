@@ -1,14 +1,14 @@
-# My Portfolio Website 🌐
+# Portfolio 🙋‍♂️
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer. Built with **React** and styled with **Tailwind CSS**, it offers a smooth and responsive user experience. ✨
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer. Built with **React** and styled with **Tailwind CSS**, it offers a smooth and responsive user experience. 🌟
 
 
-## Features 🛠️
+## 🚀 Features 🛠
 
-- **Responsive Design**: Optimized for all devices and screen sizes. 📱💻
-- **Project Showcase**: A well-organized section highlighting my best work. 📂
-- **Skill Showcase**: Clearly displays my technical skills and expertise. 💡
-- **Contact Form**: Easily reach out to me for inquiries or collaborations. 📬
+- **Responsive Design**: Optimized for all devices and screen sizes. 
+- **Project Showcase**: A well-organized section highlighting my best work. 
+- **Skill Showcase**: Clearly displays my technical skills and expertise. 
+- **Contact Form**: Easily reach out to me for inquiries or collaborations. 
 
 ## Technologies Used ⚙️
 
@@ -17,19 +17,18 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
   - Tailwind CSS 🎨
 - **Tools**:
   - Vs Code for coding 💻
-  - Vite for development 🚀
-  - Vercel App for deployment 🌍
+  - Vite for development ⚒
+  - Vercel App for deployment 🚀
 
-## Live Demo 🌟
+## Live Demo 🌐
 
-You can view the live version of my portfolio at: [https://pratham-singh.vercel.app](https://pratham-singh.vercel.app)
+You can view the live version here : [https://pratham-singh.vercel.app](https://pratham-singh.vercel.app)
 
 
 ## Acknowledgments 🙏
 
 - Inspired by other amazing portfolios and web development communities.
-- Special thanks to [Tailwind CSS](https://tailwindcss.com/) for their fantastic utility-first framework.
-- Thanks to [React](https://reactjs.org/) for making UI development a breeze.
+
 
 ## Contact 📫
 
@@ -42,5 +41,5 @@ Feel free to reach out to me:
 
 ---
 
-Thank you for visiting my portfolio! 🌟
+Thank you 👋
 
