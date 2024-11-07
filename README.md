@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experiences as a web developer. Built with **React** and styled with **Tailwind CSS**, it offers a smooth and responsive user experience. 🌟
 
 
-## 🚀 Features 🛠
+## 🚀 Features 
 
 - **Responsive Design**: Optimized for all devices and screen sizes. 
 - **Project Showcase**: A well-organized section highlighting my best work. 
